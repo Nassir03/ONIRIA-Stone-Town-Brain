@@ -2,6 +2,8 @@
 A connected Obsidian knowledge and operating system for ONIRIA Stone Town, a 20-key AI-native luxury boutique hotel in Stone Town, Zanzibar.
 
 ## Open first
+- `00 ONIRIA Visual Brain.canvas`
+- `00 ONIRIA STONE TOWN BRAIN.md`
 - `00 Control/ONIRIA Brain Dashboard.md`
 - `01 REFERENCEs/REFERENCE Index.md`
 

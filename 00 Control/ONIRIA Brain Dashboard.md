@@ -13,6 +13,8 @@ privacy: internal
 
 ## Start here
 
+- [[00 ONIRIA STONE TOWN BRAIN]]
+- [[00 ONIRIA Visual Brain.canvas|00 ONIRIA Visual Brain]]
 - [[REFERENCE Index]]
 - [[Project Hub Local Asset Index]]
 - [[Missing Information Register]]
