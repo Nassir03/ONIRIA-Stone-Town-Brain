@@ -16,7 +16,7 @@ privacy: internal
 - Purpose limitation: use data only for the stated service, safety, payment or required duty.
 - Data minimization: collect only what is needed.
 - Choice: optional personalization can be declined without reducing respectful service.
-- Role-based access: staff and Lulu see only what their task requires.
+- Role-based access: staff and Lulu see only what their Action requires.
 - Confidential communication: no sensitive details in public channels or visible labels.
 - Accuracy: allow correction and verify before acting on high-impact data.
 - Retention: keep information only under the approved retention schedule.

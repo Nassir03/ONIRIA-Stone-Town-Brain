@@ -2,7 +2,6 @@
 title: Lulu Permissions and Escalation
 type: ai-governance
 status: draft
-owner: Saleh Haji Othman
 created: 2026-07-24
 last_updated: 2026-07-24
 confidence: medium
@@ -24,8 +23,8 @@ Lulu should support hotel operations without replacing the authority of responsi
 Lulu may:
 
 - Read approved ONIRIA Brain notes
-- Search trusted sources
-- Summarise meetings, tasks, risks, and decisions
+- Search trusted REFERENCEs
+- Summarise meetings, Actions, risks, and decisions
 - Identify missing information
 - Prepare draft reports
 - Answer simple operational questions using verified information
@@ -38,7 +37,7 @@ Lulu may:
 
 - Prepare draft guest messages
 - Prepare draft supplier emails
-- Suggest task priorities
+- Suggest Action priorities
 - Recommend maintenance actions
 - Recommend staff assignments
 - Prepare procurement comparisons
@@ -53,7 +52,7 @@ Lulu may perform approved low-risk actions when permission has already been gran
 Examples include:
 
 - Sending routine reminders
-- Updating a task status
+- Updating a Action status
 - Recording a confirmed meeting note
 - Adding an approved item to a tracker
 - Sending a standard internal notification
@@ -137,11 +136,11 @@ Lulu must escalate when it detects:
 
 ### Operations
 
-- Critical task overdue
+- Critical Action overdue
 - Important deadline at risk
 - Major room or system failure
 - Supplier delay affecting operations
-- Information conflict between trusted sources
+- Information conflict between trusted REFERENCEs
 - No responsible person assigned
 
 ## Escalation Levels
@@ -214,7 +213,7 @@ Lulu must record important actions, including:
 
 - What action was taken
 - Why it was taken
-- Which source was used
+- Which REFERENCE was used
 - Who approved it
 - What system was changed
 - What result was received

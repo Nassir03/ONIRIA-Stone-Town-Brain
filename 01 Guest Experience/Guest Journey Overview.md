@@ -2,7 +2,6 @@
 title: Guest Journey Overview
 type: guest-journey
 status: draft
-owner: Saleh Haji Othman
 created: 2026-07-24
 last_updated: 2026-07-24
 confidence: medium
@@ -56,7 +55,7 @@ Number of adults and children
 Room type
 Rate
 Payment status
-Booking source
+Booking REFERENCE
 Special requests
 Accessibility needs
 Dietary needs
@@ -403,7 +402,7 @@ Identifying missing information
 Preparing pre-arrival messages
 Tracking room readiness
 Recording guest requests
-Assigning approved routine tasks
+Assigning approved routine Actions
 Monitoring deadlines
 Preparing complaint summaries
 Requesting approval

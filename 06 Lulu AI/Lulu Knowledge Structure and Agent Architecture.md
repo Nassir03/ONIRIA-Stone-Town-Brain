@@ -1,7 +1,6 @@
 title: Lulu Knowledge Structure and Agent Architecture
 type: ai-architecture
 status: draft
-owner: Saleh Haji Othman
 created: 2026-07-24
 last_updated: 2026-07-24
 confidence: medium
@@ -63,7 +62,7 @@ Date and time
 Request
 Department
 Urgency
-Related guest, room, task, supplier, or system
+Related guest, room, Action, supplier, or system
 Attached evidence
 2. Lulu Central Agent
 
@@ -83,7 +82,7 @@ Updating records
 Reporting and escalating
 3. ONIRIA Brain
 
-The ONIRIA Brain is Lulu's main structured knowledge source.
+The ONIRIA Brain is Lulu's main structured knowledge REFERENCE.
 
 It contains:
 
@@ -94,9 +93,9 @@ Maintenance records
 Supplier and inventory records
 Staff and compliance information
 Decisions
-Tasks
+Actions
 Risks
-Sources and evidence
+REFERENCEs and evidence
 Governance rules
 Templates
 Archived records
@@ -160,7 +159,7 @@ Safety
 Compliance
 Access permissions
 Schedules
-Decisions, Risks, and Tasks
+Decisions, Risks, and Actions
 
 Contains:
 
@@ -267,7 +266,7 @@ Create risk records
 Analyse effects
 Track decisions
 Identify overdue approvals
-Connect decisions to resulting tasks
+Connect decisions to resulting Actions
 
 Restrictions:
 
@@ -285,7 +284,7 @@ request_type
 operational_area
 subject
 related_record
-source
+REFERENCE
 confidence
 risk_level
 recommended_action
@@ -300,7 +299,6 @@ request_type: equipment-fault
 operational_area: maintenance
 subject: air-conditioning failure
 related_record: Room 08
-source: technician inspection
 confidence: high
 risk_level: amber
 recommended_action: assign approved technician
@@ -374,7 +372,7 @@ Tool-Use Process
 Before using a tool, Lulu must:
 
 Identify the required action
-Confirm the source information
+Confirm the REFERENCE information
 Check user and system permissions
 Assess risk
 Request approval when required
@@ -408,7 +406,7 @@ Contains active hotel information.
 
 Examples:
 
-Open tasks
+Open Actions
 Active risks
 Current guest requests
 Open maintenance faults
@@ -446,7 +444,7 @@ Identify the operational area
 Search relevant folders
 Retrieve linked notes
 Check metadata
-Compare source priority
+Compare REFERENCE priority
 Check freshness
 identify conflicts
 assign confidence
@@ -457,7 +455,7 @@ Important records should use consistent identifiers.
 
 Examples:
 
-TASK-001
+Action-001
 DEC-001
 RISK-001
 SOP-001
@@ -467,7 +465,7 @@ SUP-001
 STAFF-001
 GUEST-REQUEST-001
 COMPLAINT-001
-SOURCE-001
+REFERENCE-001
 
 Identifiers help Lulu connect records accurately.
 
@@ -485,7 +483,6 @@ confidence:
 privacy:
 department:
 related_records:
-source:
 review_date:
 Access Control
 
@@ -532,7 +529,7 @@ Every agent has limited permissions
 Every action has a responsible owner
 Important actions are traceable
 High-risk decisions remain human-controlled
-Information comes from trusted sources
+Information comes from trusted REFERENCEs
 System errors are visible
 Privacy is protected
 Records remain connected

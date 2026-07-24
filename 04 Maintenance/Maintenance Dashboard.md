@@ -33,4 +33,4 @@ privacy: internal
 
 ## Lulu workflow
 
-Use [[Lulu Operational Workflows#Assign a maintenance task]] and [[Lulu Permissions and Escalation]]. Lulu may assign and track routine work, but must escalate safety, legal, major financial, structural, fire/life-safety and repeated-failure cases.
+Use [[Lulu Operational Workflows#Assign a maintenance Action]] and [[Lulu Permissions and Escalation]]. Lulu may assign and track routine work, but must escalate safety, legal, major financial, structural, fire/life-safety and repeated-failure cases.

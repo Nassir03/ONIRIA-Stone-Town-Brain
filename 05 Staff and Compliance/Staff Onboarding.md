@@ -2,12 +2,11 @@
 title: Staff Onboarding
 type: onboarding
 status: draft
-owner: Saleh Haji Othman
 created: 2026-07-24
 last_updated: 2026-07-24
 confidence: medium
 privacy: internal
-task: 5
+Action: 5
 ---
 
 # Staff Onboarding

@@ -1,14 +1,10 @@
 ---
 title: Public Areas
 type: area
-status: draft
-owner: Saleh Haji Othman
-created: 2026-07-24
+created: 2026-07-21
 last_updated: 2026-07-24
 confidence: medium
 privacy: internal
-task: 2
-source: ONIRIA Project Hub Reference
 ---
 
 # Public Areas

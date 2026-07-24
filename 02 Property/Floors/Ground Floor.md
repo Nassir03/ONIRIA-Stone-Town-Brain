@@ -37,8 +37,8 @@ Rooms 01-05, reception and spa.
 | Access control | TO CONFIRM | TO CONFIRM | TO CONFIRM |
 | Fire/life safety | TO CONFIRM | TO CONFIRM | TO CONFIRM |
 
-## Related sources
+## Related REFERENCEs
 
-- [[Source - Floor Plans]]
-- [[Source - RCP Colored Drawing]]
-- [[Source - RCP Construction Drawing]]
+- [[REFERENCE - Floor Plans]]
+- [[REFERENCE - RCP Colored Drawing]]
+- [[REFERENCE - RCP Construction Drawing]]

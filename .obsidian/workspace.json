@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f8f0466f707de911",
+        "id": "de5a974fdb35d94f",
         "type": "tabs",
         "children": [
           {
-            "id": "c567804ab7e1ffed",
+            "id": "519f5a2bc1cf067e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "02 Property and Rooms/Room 14.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Room 14"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02 Property and Rooms/Room 14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Room 14"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02 Property and Rooms/Room 14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Room 14"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "02 Property and Rooms/Room 14.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Room 14"
             }
           },
           {
@@ -187,53 +194,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9bebeca09390d3b4",
+  "active": "519f5a2bc1cf067e",
   "lastOpenFiles": [
-    "01 Guest Experience/Pre-Arrival Arrival and Check-In Workflows.md",
-    "01 Guest Experience/In-Stay Guest Requests Complaints and Check-Out Workflows.md",
-    "01 Guest Experience/Guest Profile and Preferences Template.md",
-    "12 Templates/Template - Training Record.md",
-    "12 Templates/Template - Supplier Profile.md",
-    "12 Templates/Template - Staff Role.md",
-    "12 Templates/Template - Room Inspection Record.md",
-    "12 Templates/Template - Maintenance Request.md",
-    "12 Templates/Template - Inventory Item.md",
-    "12 Templates/Template - Equipment Asset.md",
-    "12 Templates/Template - Incident Record.md",
-    "12 Templates/Room 00.md",
-    "12 Templates",
-    "07 Decisions Risks and Tasks/Risks.md",
-    "05 People Safety Compliance/Safety/Pool Safety Requirements.md",
-    "05 People Safety Compliance/Safety/Food Safety Requirements.md",
-    "05 People Safety Compliance/Safety/Security Procedures.md",
-    "05 People Safety Compliance/Safety/Fire Safety Procedures.md",
-    "05 People Safety Compliance/Safety/Emergency Roles.md",
-    "01 Guest Experience/Guest Request System.md",
-    "00 Control/ONIRIA Brain Dashboard.md",
-    "00 Control/Dashboard Blueprint.md",
-    "00 Control/Missing Information Register.md",
-    "00 Control/Build Quality Report.md",
-    "00 Control",
-    "01 Sources/Project Hub Local Asset Index.md",
-    "02 Property/Rooms/Room 20.md",
-    "02 Property/Rooms/Room 19.md",
-    "02 Property/Rooms",
-    "02 Property/Room Categories",
-    "02 Property/Public Areas",
-    "02 Property/Floors",
-    "02 Property/Building Systems",
-    "02 Property",
-    "01 Sources/Project Hub Assets/Room Render References/Room 20 Reference.png",
-    "01 Sources/Project Hub Assets/Room Layouts/Room 20 Layout.pdf",
-    "01 Sources/Project Hub Assets/Room Render References/Room 19 Reference.png",
-    "01 Sources/Project Hub Assets/Room Render References/Room 18 Reference.png",
-    "01 Sources/Project Hub Assets/Room Layouts/Room 18 Layout.pdf",
-    "01 Sources/Project Hub Assets/Room Render References/Room 17 Reference.png",
-    "01 Sources/Project Hub Assets/Room Render References/Room 16 Reference.png",
-    "01 Sources/Project Hub Assets/Room Render References/Room 14 Reference.png",
-    "01 Sources/Project Hub Assets/Room Render References/Room 11 Reference.png",
-    "01 Sources/Project Hub Assets/Room Render References/Room 10 Reference.png",
-    "01 Sources/Project Hub Assets/Room Render References/Room 09 Reference.png",
-    "01 Sources/Project Hub Assets/Room Render References/Room 08 Reference.png"
+    "02 Property and Rooms/Room 11.md",
+    "02 Property and Rooms/Room 09.md",
+    "02 Property and Rooms/Room 06.md",
+    "07 Decisions Risks and Actions/Risks.md",
+    "07 Decisions Risks and Actions",
+    "01 References/Reference - Floor Plans.md",
+    "01 References/Reference - Furniture Drawings.md",
+    "01 References/Reference - In Room Manual Gran Melia.md",
+    "01 References/Reference - ONIRIA Stone Town Master Index.md",
+    "01 References/Reference - RCP Colored Drawing.md",
+    "01 References/Reference - RCP Construction Drawing.md",
+    "01 References/Reference - Roof Plan.md",
+    "01 References/Reference Index.md",
+    "06 Lulu AI/Lulu Trusted References and Knowledge Rules.md",
+    "08 References/ONIRIA Project Hub Reference.md",
+    "08 References",
+    "01 References/Project Hub Assets/Operations Manuals/Manual_In Room_Gran Melia_V7_EN.pdf",
+    "01 References/Project Hub Assets/Room Render References/Room 20 Reference.png",
+    "01 References/Project Hub Assets/Room Render References/Room 19 Reference.png",
+    "01 References/Project Hub Assets/Room Render References/Room 18 Reference.png",
+    "01 References/Project Hub Assets/Room Render References/Room 17 Reference.png",
+    "01 References/Project Hub Assets/Room Render References/Room 16 Reference.png",
+    "01 References/Project Hub Assets/Room Render References/Room 14 Reference.png",
+    "01 References/Project Hub Assets/Room Render References/Room 13 Reference.png",
+    "01 References/Project Hub Assets/Room Render References/Room 12 Reference.png",
+    "01 References/Project Hub Assets/Room Render References/Room 11 Reference.png",
+    "01 References/Project Hub Assets/Room Render References/Room 10 Reference.png",
+    "01 References/Project Hub Assets/Room Layouts/Room 20 Layout.pdf",
+    "01 References/Project Hub Assets/Room Layouts/Room 18 Layout.pdf",
+    "01 References/Project Hub Assets/Room Layouts/Room 19 Layout.pdf",
+    "01 References/Project Hub Assets/Room Layouts/Room 17 Layout.pdf",
+    "01 References/Project Hub Assets/Room Layouts/Room 16 Layout.pdf",
+    "01 References/Project Hub Assets/Room Layouts/Room 15 Layout.pdf",
+    "01 References/Project Hub Assets/Room Layouts/Room 14 Layout.pdf",
+    "01 References/Source Index.md",
+    "01 References/Source - Roof Plan.md",
+    "01 References/Source - RCP Construction Drawing.md",
+    "01 References/Source - RCP Colored Drawing.md",
+    "01 References/Source - ONIRIA Stone Town Master Index.md",
+    "01 References/Source - In Room Manual Gran Melia.md",
+    "01 References/Source - Furniture Drawings.md",
+    "01 References/Source - Floor Plans.md",
+    "01 References/Project Hub Local Asset Index.md",
+    "03 Operations/SOPs/SOP - Turndown Service.md",
+    "03 Operations/SOPs/SOP - Spa Booking and Service Coordination.md",
+    "03 Operations/SOPs/SOP - Security Incident Response.md"
   ]
 }

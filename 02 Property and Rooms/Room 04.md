@@ -2,16 +2,13 @@
 title: Room 04
 type: room
 status: draft
-owner: Saleh Haji Othman
-created: 2026-07-24
+created: 2026-07-22
 last_updated: 2026-07-24
 confidence: medium
 privacy: internal
-task: 2
 room_number: "04"
 category: Standard Deluxe
 floor: Ground
-source: ONIRIA Project Hub Reference
 ---
 
 # Room 04
@@ -38,7 +35,7 @@ Room 04 is a Standard Deluxe room on the ground floor.
 
 ## Furniture and Equipment Summary
 
-Record only approved operational items. Design-only references should remain in source notes unless they affect operation, cleaning, maintenance, safety, or guest experience.
+Record only approved operational items. Design-only references should remain in REFERENCE notes unless they affect operation, cleaning, maintenance, safety, or guest experience.
 
 ## Systems Checklist
 

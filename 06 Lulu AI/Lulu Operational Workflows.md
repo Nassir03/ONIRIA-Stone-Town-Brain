@@ -2,7 +2,6 @@
 title: Lulu Operational Workflows
 type: ai-workflow
 status: draft
-owner: Saleh Haji Othman
 created: 2026-07-24
 last_updated: 2026-07-24
 confidence: medium
@@ -56,7 +55,7 @@ Lulu receives information through:
 
 1. Record the date, time, sender, and communication channel.
 2. Identify the subject and related hotel area.
-3. Classify the information as a request, task, decision, risk, complaint, update, or evidence.
+3. Classify the information as a request, Action, decision, risk, complaint, update, or evidence.
 4. Check whether the information is complete.
 5. Compare it with trusted records.
 6. Identify conflicts or missing information.
@@ -84,7 +83,7 @@ Important information required for an action is missing, unclear, outdated, or c
 
 1. Identify the missing or unclear item.
 2. Explain why it is required.
-3. Identify the responsible source or person.
+3. Identify the responsible REFERENCE or person.
 4. Prepare a clear follow-up question.
 5. Send or assign the information request.
 6. Record the request and date.
@@ -101,31 +100,31 @@ Lulu should ask:
 
 > Please confirm the expected delivery date for the listed items because the current quotation does not include this information and the procurement schedule cannot be confirmed without it.
 
-# Workflow 3: Task Management
+# Workflow 3: Action Management
 
 ## Trigger
 
-A new task is created from a meeting, request, decision, inspection, complaint, maintenance issue, or project plan.
+A new Action is created from a meeting, request, decision, inspection, complaint, maintenance issue, or project plan.
 
 ## Steps
 
-1. Create the task.
+1. Create the Action.
 2. Write a clear action statement.
 3. Assign the responsible person.
 4. Add the department or operational area.
 5. Add the priority.
 6. Add the due date.
-7. Link the task to its source.
+7. Link the Action to its REFERENCE.
 8. Identify dependencies.
 9. Track progress.
 10. Send reminders before the due date.
-11. Escalate when the task becomes overdue or critical.
+11. Escalate when the Action becomes overdue or critical.
 12. Record completion evidence.
-13. Close the task after verification.
+13. Close the Action after verification.
 
-## Required Task Fields
+## Required Action Fields
 
-- Task ID
+- Action ID
 - Title
 - Description
 - Owner
@@ -134,7 +133,7 @@ A new task is created from a meeting, request, decision, inspection, complaint, 
 - Status
 - Created date
 - Due date
-- Source
+- REFERENCE
 - Dependencies
 - Evidence
 - Completion date
@@ -155,7 +154,7 @@ A project or operational decision is proposed, discussed, approved, rejected, or
 6. Identify who must approve it.
 7. Record the final decision.
 8. Record the reason.
-9. Create resulting tasks.
+9. Create resulting Actions.
 10. Notify affected people.
 11. Update related notes and systems.
 12. Schedule a review when needed.
@@ -173,7 +172,7 @@ A project or operational decision is proposed, discussed, approved, rejected, or
 - Final decision
 - Reason
 - Date
-- Related tasks
+- Related Actions
 - Review date
 
 # Workflow 5: Risk Management
@@ -214,7 +213,7 @@ A guest asks for information, a service, a room item, transport, food, maintenan
 5. Identify the responsible department.
 6. Check whether Lulu may respond directly.
 7. Prepare or send an approved response.
-8. Assign the service task.
+8. Assign the service Action.
 9. Track completion.
 10. Confirm with the guest.
 11. Record the outcome.
@@ -269,7 +268,7 @@ A room, device, building system, public area, or piece of equipment has a fault 
 4. Assess urgency and safety risk.
 5. Check maintenance history.
 6. Assign the responsible technician or supplier.
-7. Create a work task.
+7. Create a work Action.
 8. Identify required parts or access.
 9. Track progress.
 10. Record repair evidence.
@@ -313,11 +312,11 @@ The hotel needs goods, services, quotations, delivery updates, supplier evaluati
 
 Lulu must not approve a purchase or payment independently.
 
-# Workflow 10: Staff Task and Schedule Support
+# Workflow 10: Staff Action and Schedule Support
 
 ## Trigger
 
-A task, shift, operational demand, absence, training requirement, or staffing problem affects staff work.
+A Action, shift, operational demand, absence, training requirement, or staffing problem affects staff work.
 
 ## Steps
 
@@ -345,12 +344,12 @@ Scheduled daily reporting time or manager request.
 1. Retrieve confirmed operational information.
 2. Summarise guest requests and complaints.
 3. Summarise room and maintenance issues.
-4. Summarise staff coverage and overdue tasks.
+4. Summarise staff coverage and overdue Actions.
 5. Summarise supplier and inventory concerns.
 6. List new decisions and risks.
 7. Identify missing information.
 8. Highlight urgent items.
-9. Cite the relevant sources.
+9. Cite the relevant REFERENCEs.
 10. Send the report to authorised recipients.
 
 ## Suggested Report Structure
@@ -359,7 +358,7 @@ Scheduled daily reporting time or manager request.
 - Urgent issues
 - Guest experience
 - Rooms and maintenance
-- Staff and tasks
+- Staff and Actions
 - Suppliers and inventory
 - Decisions required
 - Risks
@@ -414,7 +413,7 @@ New confirmed information changes an existing record.
 
 1. Identify the existing record.
 2. Compare old and new information.
-3. Check the new source.
+3. Check the new REFERENCE.
 4. Assign a confidence level.
 5. Identify affected notes and systems.
 6. Prepare the proposed update.

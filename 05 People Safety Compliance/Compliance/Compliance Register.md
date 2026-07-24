@@ -11,7 +11,7 @@ privacy: internal
 
 # Compliance Register
 
-| ID | Domain | Requirement/source | Responsible owner | Evidence | Renewal/review | Status |
+| ID | Domain | Requirement/REFERENCE | Responsible owner | Evidence | Renewal/review | Status |
 |---|---|---|---|---|---|---|
 | CMP-001 | Hotel/business licensing | TO CONFIRM | General Manager/Legal |  |  | Open |
 | CMP-002 | UNESCO/exterior preservation | TO CONFIRM | Project Lead |  |  | Open |

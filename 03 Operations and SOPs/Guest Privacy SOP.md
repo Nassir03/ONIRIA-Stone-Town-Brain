@@ -2,12 +2,11 @@
 title: Guest Privacy SOP
 type: sop
 status: draft
-owner: Saleh Haji Othman
 created: 2026-07-24
 last_updated: 2026-07-24
 confidence: medium
 privacy: internal
-task: 3
+Action: 3
 department: All
 ---
 
@@ -19,11 +18,11 @@ Protect guest identity, preferences, contact details, payments, health informati
 
 ## Core Rules
 
-- Access only the guest data required for the task.
+- Access only the guest data required for the Action.
 - Do not share guest data in public channels.
 - Do not expose room numbers unnecessarily.
 - Treat allergies, spa notes, preferences, complaints, and payment information as sensitive.
-- Record consent and source where required.
+- Record consent and REFERENCE where required.
 - Escalate suspected privacy breaches.
 
 ## Procedure

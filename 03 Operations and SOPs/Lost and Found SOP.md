@@ -2,12 +2,11 @@
 title: Lost and Found SOP
 type: sop
 status: draft
-owner: Saleh Haji Othman
 created: 2026-07-24
 last_updated: 2026-07-24
 confidence: medium
 privacy: internal
-task: 3
+Action: 3
 department: Front Office / Housekeeping
 ---
 

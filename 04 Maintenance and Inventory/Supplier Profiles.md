@@ -2,12 +2,11 @@
 title: Supplier Profiles
 type: supplier-register
 status: draft
-owner: Saleh Haji Othman
 created: 2026-07-24
 last_updated: 2026-07-24
 confidence: medium
 privacy: internal
-task: 4
+Action: 4
 ---
 
 # Supplier Profiles
@@ -32,7 +31,7 @@ Supplier profiles keep operational suppliers searchable by category, reliability
 | Related inventory | Link to [[Inventory System]] |
 | Performance record | Link to [[Supplier Performance Records]] |
 | Status | Research, shortlisted, approved, active, suspended, retired |
-| Source | Catalog, quote, contract, email, inspection |
+| REFERENCE | Catalog, quote, contract, email, inspection |
 
 ## Supplier Communication Rule
 

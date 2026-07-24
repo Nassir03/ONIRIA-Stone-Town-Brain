@@ -1,9 +1,9 @@
 ---
-title: "Wi-Fi and Network System"
+title: Wi-Fi and Network System
 type: building-system
 status: draft
-owner: "ONIRIA Operations"
-created: 2026-07-24
+owner: ONIRIA Operations
+created: 2026-07-21
 last_updated: 2026-07-24
 confidence: medium
 privacy: internal
@@ -30,7 +30,7 @@ Provide a machine-readable map of wi-fi and network system across rooms, public 
 
 ## Current status
 
-Design, equipment schedule, installation status and commissioning evidence are **TO CONFIRM** from current approved project sources.
+Design, equipment schedule, installation status and commissioning evidence are **TO CONFIRM** from current approved project REFERENCEs.
 
 ## Connections
 

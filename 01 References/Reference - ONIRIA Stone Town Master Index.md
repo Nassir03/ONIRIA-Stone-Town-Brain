@@ -1,6 +1,6 @@
 ---
-title: "Source - ONIRIA Stone Town Master Index"
-type: source-record
+title: "REFERENCE - ONIRIA Stone Town Master Index"
+type: REFERENCE-record
 status: active
 owner: "ONIRIA Operations"
 created: 2026-07-24
@@ -9,15 +9,15 @@ confidence: high
 privacy: internal
 ---
 
-# Source - ONIRIA Stone Town Master Index
+# REFERENCE - ONIRIA Stone Town Master Index
 
-## Source details
+## REFERENCE details
 
 - **Document:** `01 START HERE/ONIRIA Stone Town — Master Index.docx`
 - **Project folder:** [01 START HERE](https://drive.google.com/drive/folders/1cC_MkCKfABFx2TKtIrfK3cb_w8xi8mrF)
-- **Role:** Living project map and current high-level source of truth.
-- **Status in source:** LIVING DOCUMENT.
-- **Owner in source:** Project Lead / CEO.
+- **Role:** Living project map and current high-level authority.
+- **Status in REFERENCE:** LIVING DOCUMENT.
+- **Owner in REFERENCE:** Project Lead / CEO.
 
 ## Confirmed project facts used by this Brain
 
@@ -25,10 +25,10 @@ privacy: internal
 - Ground floor: 5 rooms and spa; first floor: 8 rooms; second floor: 7 rooms.
 - Target opening: 21 December 2026; hard deadline: April 2027.
 - Current phase: construction, MEP coordination, interior implementation, and procurement.
-- Google Drive is the source of truth for project files.
+- Google Drive is the authority for project files.
 - Current operational design must develop alongside physical design and AI workflows.
 
-## Current blockers named in the source
+## Current blockers named in the REFERENCE
 
 - Coordinated RCP and ceiling-access information.
 - Roof MEP information.

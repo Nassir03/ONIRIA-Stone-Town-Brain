@@ -30,7 +30,7 @@ Provide a machine-readable map of electrical system across rooms, public areas a
 
 ## Current status
 
-Design, equipment schedule, installation status and commissioning evidence are **TO CONFIRM** from current approved project sources.
+Design, equipment schedule, installation status and commissioning evidence are **TO CONFIRM** from current approved project REFERENCEs.
 
 ## Connections
 

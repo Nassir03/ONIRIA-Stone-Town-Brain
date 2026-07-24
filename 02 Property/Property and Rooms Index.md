@@ -53,18 +53,18 @@ privacy: internal
 - [[Room 19]]
 - [[Room 20]]
 
-## Source access
+## REFERENCE access
 
 - [Current Google Drive project hub](https://drive.google.com/drive/folders/1NDN0kD4duA3wUTRvoCCwEbUl01wuUzUd?usp=drive_link)
 - [Design & Drawings](https://drive.google.com/drive/folders/1gWi-a2Jg32u41LwblaqHHuc3KR4kpuas)
 - [Rooms & Public Areas](https://drive.google.com/drive/folders/1MiHnz0gCbcRPVm8d9Vw0ri9PHFdIFjqx)
-- [[Source - ONIRIA Stone Town Master Index]]
+- [[REFERENCE - ONIRIA Stone Town Master Index]]
 - [[Project Hub Local Asset Index]]
 
 ## Local visual evidence now added
 
-- Architecture/RCP/furniture PDFs are stored under `01 Sources/Project Hub Assets/Architecture/`.
-- Room layout PDFs for Rooms 01-20 are stored under `01 Sources/Project Hub Assets/Room Layouts/`.
+- Architecture/RCP/furniture PDFs are stored under `01 REFERENCEs/Project Hub Assets/Architecture/`.
+- Room layout PDFs for Rooms 01-20 are stored under `01 REFERENCEs/Project Hub Assets/Room Layouts/`.
 - One local render reference was added for every room where the zip included an image; Room 15 remains TO CONFIRM.
 
 ## Control principle

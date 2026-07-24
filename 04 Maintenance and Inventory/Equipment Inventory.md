@@ -2,12 +2,11 @@
 title: Equipment Inventory
 type: equipment-register
 status: draft
-owner: Saleh Haji Othman
 created: 2026-07-24
 last_updated: 2026-07-24
 confidence: medium
 privacy: internal
-task: 4
+Action: 4
 ---
 
 # Equipment Inventory
@@ -30,12 +29,12 @@ This register stores operational equipment that must be maintained, repaired, in
 | Supplier | Link to [[Supplier Profiles]] |
 | Installer | Person or company |
 | Warranty | Link to [[Warranty Records]] |
-| Manual | Link to source file |
+| Manual | Link to REFERENCE file |
 | Maintenance schedule | Link to [[Preventive Maintenance Schedule]] |
 | Guest impact | None, low, medium, high, critical |
 | Safety impact | None, low, medium, high, critical |
 | Status | Planned, ordered, installed, commissioned, active, repair, retired |
-| Source | Approved document or inspection |
+| REFERENCE | Approved document or inspection |
 
 ## Initial Equipment Categories
 

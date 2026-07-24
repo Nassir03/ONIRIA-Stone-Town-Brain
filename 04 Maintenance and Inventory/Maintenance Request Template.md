@@ -2,12 +2,11 @@
 title: Maintenance Request Template
 type: maintenance-request-template
 status: draft
-owner: Saleh Haji Othman
 created: 2026-07-24
 last_updated: 2026-07-24
 confidence: medium
 privacy: internal
-task: 4
+Action: 4
 ---
 
 # Maintenance Request Template
@@ -22,7 +21,6 @@ Use this template for every maintenance defect, repair, service issue, or equipm
 request_id:
 date_reported:
 reported_by:
-source:
 room_or_area:
 equipment:
 building_system:

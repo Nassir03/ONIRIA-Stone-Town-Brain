@@ -27,6 +27,6 @@ Major current furniture partner. Scope under development/procurement includes ke
 - Shipping/delivery: TO CONFIRM
 - Warranty/defects terms: TO CONFIRM
 
-## Source
+## REFERENCE
 
-[[Source - ONIRIA Stone Town Master Index]] and [Procurement & Suppliers](https://drive.google.com/drive/folders/1Gkb-eO16gILnKd0DS1HCxwS2lyv5h7I5).
+[[REFERENCE - ONIRIA Stone Town Master Index]] and [Procurement & Suppliers](https://drive.google.com/drive/folders/1Gkb-eO16gILnKd0DS1HCxwS2lyv5h7I5).

@@ -2,13 +2,10 @@
 title: Property Map
 type: property-map
 status: draft
-owner: Saleh Haji Othman
-created: 2026-07-24
+created: 2026-07-21
 last_updated: 2026-07-24
 confidence: medium
 privacy: internal
-task: 2
-source: ONIRIA Project Hub Reference
 ---
 
 # Property Map
@@ -21,7 +18,6 @@ Coordinates: `6°09'52.41"S 39°11'14.47"E`
 
 Owner: VIGOR Group  
 Operational AI: [[Lulu System Prompt]]  
-Project source: [[ONIRIA Project Hub Reference]]
 
 ## Operating Shape
 
@@ -83,16 +79,3 @@ Master Suite:
 - Security
 
 See [[Building Systems Register]].
-
-## Source Trace
-
-Primary reference categories:
-
-- Architecture plans
-- MEP drawings
-- Rooftop plan
-- Room layout PDFs
-- Room render updates
-- Construction and site files
-
-Source index: [[ONIRIA Project Hub Reference]]

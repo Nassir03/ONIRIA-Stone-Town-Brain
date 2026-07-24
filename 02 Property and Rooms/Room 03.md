@@ -2,16 +2,13 @@
 title: Room 03
 type: room
 status: draft
-owner: Saleh Haji Othman
-created: 2026-07-24
+created: 2026-07-22
 last_updated: 2026-07-24
 confidence: medium
 privacy: internal
-task: 2
 room_number: "03"
 category: Standard Deluxe
 floor: Ground
-source: ONIRIA Project Hub Reference
 ---
 
 # Room 03
@@ -28,7 +25,6 @@ Room 03 is a Standard Deluxe room on the ground floor.
 - Systems: [[Building Systems Register]]
 - Inspection: [[Room Inspection Structure]]
 - SOPs: [[Housekeeping SOPs]], [[Maintenance Request SOP]], [[Emergency SOPs]]
-- Source: [[ONIRIA Project Hub Reference]]
 
 ## Features
 
@@ -37,7 +33,7 @@ Room 03 is a Standard Deluxe room on the ground floor.
 
 ## Furniture and Equipment Summary
 
-Final FF&E must be confirmed from the approved room design source and recorded in [[Equipment Inventory]] when operationally maintained.
+Final FF&E must be confirmed from the approved room design REFERENCE and recorded in [[Equipment Inventory]] when operationally maintained.
 
 ## Device Inventory To Complete
 

@@ -2,16 +2,13 @@
 title: Room 05
 type: room
 status: draft
-owner: Saleh Haji Othman
-created: 2026-07-24
+created: 2026-07-22
 last_updated: 2026-07-24
 confidence: medium
 privacy: internal
-task: 2
 room_number: "05"
 category: Standard Deluxe
 floor: Ground
-source: ONIRIA Project Hub Reference
 ---
 
 # Room 05
@@ -28,7 +25,6 @@ Room 05 is a Standard Deluxe room on the ground floor.
 - Inspection: [[Room Inspection Structure]]
 - SOPs: [[Housekeeping SOPs]], [[Turndown Service SOP]], [[Maintenance Request SOP]]
 - Safety: [[Emergency SOPs]]
-- Source: [[ONIRIA Project Hub Reference]]
 
 ## Features
 

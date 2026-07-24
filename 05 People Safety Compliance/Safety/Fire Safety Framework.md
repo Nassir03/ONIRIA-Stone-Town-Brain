@@ -29,4 +29,4 @@ privacy: internal
 - [[Fire and Life Safety System]]
 - [[Emergency Roles and Command Structure]]
 
-All technical and legal details are TO CONFIRM from competent approved sources.
+All technical and legal details are TO CONFIRM from competent approved REFERENCEs.

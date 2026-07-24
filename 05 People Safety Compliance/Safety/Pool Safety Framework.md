@@ -32,4 +32,4 @@ Rooftop infinity pool, private in-room pools and terrace pools.
 - [[SOP - Pool Incident Response]]
 - [[Equipment Register]]
 
-Final technical and legal controls are TO CONFIRM from competent approved sources.
+Final technical and legal controls are TO CONFIRM from competent approved REFERENCEs.

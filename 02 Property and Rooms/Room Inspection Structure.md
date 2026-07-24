@@ -2,13 +2,11 @@
 title: Room Inspection Structure
 type: inspection-structure
 status: draft
-owner: Saleh Haji Othman
 created: 2026-07-24
 last_updated: 2026-07-24
 confidence: medium
 privacy: internal
-task: 2
-source: ONIRIA Project Hub Reference
+Action: 2
 ---
 
 # Room Inspection Structure
@@ -48,7 +46,7 @@ This structure gives every room a consistent inspection record without duplicati
 - Status
 - Related maintenance request
 - Related incident
-- Source
+- REFERENCE
 
 ## Room-Level Standards
 

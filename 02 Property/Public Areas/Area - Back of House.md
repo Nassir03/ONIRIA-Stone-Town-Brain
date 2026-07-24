@@ -38,5 +38,5 @@ privacy: internal
 
 ## Evidence
 
-- Current drawing/source: TO CONFIRM
+- Current drawing/REFERENCE: TO CONFIRM
 - Inspection/commissioning evidence: TO CONFIRM

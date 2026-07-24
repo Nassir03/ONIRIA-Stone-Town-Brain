@@ -2,7 +2,6 @@
 title: Lulu Dashboard and Monitoring Structure
 type: ai-dashboard
 status: draft
-owner: Saleh Haji Othman
 created: 2026-07-24
 last_updated: 2026-07-24
 confidence: medium
@@ -19,7 +18,7 @@ The dashboard should provide a clear view of:
 
 - Urgent issues
 - Pending approvals
-- Overdue tasks
+- Overdue Actions
 - Guest complaints and requests
 - Room and maintenance problems
 - Supplier and inventory concerns
@@ -40,7 +39,7 @@ The dashboard should:
 - Show current status
 - Show owners and deadlines
 - Show risk and urgency
-- Link each item to its source record
+- Link each item to its REFERENCE record
 - Distinguish confirmed information from unverified information
 - Show when data was last updated
 - Avoid duplicate alerts
@@ -104,13 +103,13 @@ Each approval should show:
 - Deadline
 - Current status
 
-## 3. Overdue Tasks
+## 3. Overdue Actions
 
-Shows tasks that passed their due dates.
+Shows Actions that passed their due dates.
 
-Each task should show:
+Each Action should show:
 
-- Task ID
+- Action ID
 - Title
 - Owner
 - Department
@@ -231,7 +230,7 @@ Each decision should show:
 - Approval required
 - Deadline
 - Current status
-- Related tasks
+- Related Actions
 
 ## 10. Staff and Coverage
 
@@ -299,7 +298,7 @@ Examples:
 
 - Questions answered
 - Alerts created
-- Tasks created
+- Actions created
 - Reminders sent
 - Approvals requested
 - Escalations made
@@ -313,7 +312,7 @@ Each activity should show:
 - Date and time
 - Action
 - Reason
-- Source
+- REFERENCE
 - Permission level
 - Approver
 - Tool used
@@ -332,7 +331,7 @@ Users should be able to filter by:
 - Room
 - Supplier
 - Guest-service category
-- Task priority
+- Action priority
 - Approval status
 - Escalation level
 - Confidence level
@@ -360,7 +359,7 @@ Designed for department leads.
 
 Shows:
 
-- Department tasks
+- Department Actions
 - Staff coverage
 - Guest requests
 - Maintenance issues
@@ -375,7 +374,7 @@ Designed for individual staff.
 
 Shows:
 
-- Assigned tasks
+- Assigned Actions
 - Due dates
 - Reminders
 - Pending responses
@@ -394,7 +393,7 @@ Shows:
 - System changes
 - Escalations
 - Errors
-- Source records
+- REFERENCE records
 - Final outcomes
 
 # Status Labels
@@ -430,7 +429,7 @@ Suggested top-level cards:
 - Red alerts
 - Amber alerts
 - Pending approvals
-- Overdue tasks
+- Overdue Actions
 - Open guest complaints
 - Rooms unavailable
 - Critical maintenance issues
@@ -446,7 +445,7 @@ At the start of each day, Lulu should:
 
 1. Retrieve current operational information
 2. Check red and amber alerts
-3. Check overdue tasks
+3. Check overdue Actions
 4. Check pending approvals
 5. Check guest complaints
 6. Check unavailable rooms
@@ -476,7 +475,7 @@ Notifications should include:
 - Required action
 - Deadline
 - Approval required
-- Source link
+- REFERENCE link
 
 # Data Quality Rules
 
@@ -486,7 +485,7 @@ Dashboard information must:
 - Show last updated date
 - Show confidence level
 - Show responsible owner
-- Link to the source
+- Link to the REFERENCE
 - Avoid duplicate records
 - Flag outdated information
 - Flag conflicting information
@@ -497,8 +496,8 @@ Dashboard information must:
 The dashboard may track:
 
 - Average response time
-- Average task completion time
-- Number of overdue tasks
+- Average Action completion time
+- Number of overdue Actions
 - Number of unresolved complaints
 - Number of red alerts
 - Approval waiting time
@@ -519,7 +518,7 @@ Before publishing the dashboard, confirm:
 - Risk levels are clear
 - Approval requirements are clear
 - Sensitive information is protected
-- Every item links to a source
+- Every item links to a REFERENCE
 - Data freshness is visible
 - Duplicate alerts are removed
 - Filters work correctly

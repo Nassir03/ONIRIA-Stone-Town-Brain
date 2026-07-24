@@ -2,12 +2,11 @@
 title: Supplier Performance Records
 type: supplier-performance-register
 status: draft
-owner: Saleh Haji Othman
 created: 2026-07-24
 last_updated: 2026-07-24
 confidence: medium
 privacy: internal
-task: 4
+Action: 4
 ---
 
 # Supplier Performance Records

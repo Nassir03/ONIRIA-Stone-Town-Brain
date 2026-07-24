@@ -2,16 +2,14 @@
 title: Room 15
 type: room
 status: draft
-owner: Saleh Haji Othman
 created: 2026-07-24
 last_updated: 2026-07-24
 confidence: medium
 privacy: internal
-task: 2
+Action: 2
 room_number: "15"
 category: Supreme Room
 floor: Second
-source: ONIRIA Project Hub Reference
 ---
 
 # Room 15
@@ -46,7 +44,7 @@ Supreme Rooms include private in-room pool and ocean-view positioning, subject t
 
 ## Furniture and Equipment Summary
 
-Complete after approved FF&E and source verification.
+Complete after approved FF&E and REFERENCE verification.
 
 ## Cleaning Standard
 

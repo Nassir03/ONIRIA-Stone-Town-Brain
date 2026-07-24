@@ -22,8 +22,8 @@ Use a compact four-zone layout:
 | Zone | What it shows | Why it matters |
 |---|---|---|
 | Today | arrivals, departures, in-house guests, VIPs, room readiness | Keeps the guest journey visible |
-| Rooms | room status, housekeeping status, maintenance holds, inspection gaps | Turns Task 2 into daily action |
-| Alerts | safety issues, guest complaints, overdue tasks, missing critical information | Keeps risk visible |
+| Rooms | room status, housekeeping status, maintenance holds, inspection gaps | Turns Property and rooms into daily action |
+| Alerts | safety issues, guest complaints, overdue Actions, missing critical information | Keeps risk visible |
 | Lulu | suggested actions, escalations, missing evidence, SOP lookups | Makes the AI useful without hiding accountability |
 
 ## Main Sections
@@ -41,18 +41,18 @@ Use a compact four-zone layout:
 - Use small tables for daily operations rather than large narrative blocks.
 - Use room thumbnails only where they help identify room character or design intent.
 - Use traffic-light severity for risk: Critical, High, Medium, Low.
-- Keep links close to decisions: each alert should link to the room, SOP, asset, supplier, staff role or source evidence.
+- Keep links close to decisions: each alert should link to the room, SOP, asset, supplier, staff role or REFERENCE evidence.
 
 ## Dashboard Rules
 
 - Every dashboard item needs an owner or next action.
-- Every technical or compliance claim needs source evidence.
+- Every technical or compliance claim needs REFERENCE evidence.
 - Lulu can summarize and suggest, but safety, legal, privacy, major spend and guest-impacting decisions require human approval.
-- Anything uncertain must stay marked TO CONFIRM until supported by an approved source.
+- Anything uncertain must stay marked TO CONFIRM until supported by an approved REFERENCE.
 
 ## Recommended Obsidian Layout
 
 - Left column: Start Here, Today, Missing Information.
 - Middle column: Rooms, SOPs, Maintenance.
 - Right column: Safety, People, Lulu Escalations.
-- Footer: live source links, quality checklist and build status.
+- Footer: live REFERENCE links, quality checklist and build status.

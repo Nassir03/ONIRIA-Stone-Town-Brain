@@ -24,7 +24,7 @@ One record per maintainable asset. Do not use this register for loose room desig
 - Supplier and purchase record
 - Install/commission date
 - Warranty dates and terms
-- Manual/source
+- Manual/REFERENCE
 - Safety and isolation information
 - Criticality and guest impact
 - Preventive-maintenance plan

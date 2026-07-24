@@ -2,16 +2,14 @@
 title: Room 20
 type: room
 status: draft
-owner: Saleh Haji Othman
 created: 2026-07-24
 last_updated: 2026-07-24
 confidence: medium
 privacy: internal
-task: 2
+Action: 2
 room_number: "20"
 category: Master Suite
 floor: Second
-source: ONIRIA Project Hub Reference
 ---
 
 # Room 20
@@ -22,7 +20,7 @@ Room 20 is a Master Suite on the second floor.
 
 ## Category Features
 
-Master Suites include terrace, jacuzzi or bathtub, and private above-ground glass-fibre terrace pool. Source verification is required before final operational sign-off.
+Master Suites include terrace, jacuzzi or bathtub, and private above-ground glass-fibre terrace pool. REFERENCE verification is required before final operational sign-off.
 
 ## Connected Records
 

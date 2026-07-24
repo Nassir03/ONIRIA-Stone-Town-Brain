@@ -23,7 +23,7 @@ approval_status: "requires-approval"
 - **Equipment/system:** POS/PMS/allergen records
 - **Responsible role:** TO CONFIRM in staffing plan
 - **Escalation:** F&B Manager
-- **Approved source:** Pre-opening operational design; requires formal approval and system-specific validation.
+- **Approved REFERENCE:** Pre-opening operational design; requires formal approval and system-specific validation.
 
 ## Standard
 
@@ -41,7 +41,7 @@ approval_status: "requires-approval"
 
 ## Records created
 
-- Task/request/incident record as applicable
+- Action/request/incident record as applicable
 - Time, owner, completion and evidence
 - Guest-impact and recovery record where applicable
 - Corrective action or missing-information alert

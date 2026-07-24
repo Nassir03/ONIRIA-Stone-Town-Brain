@@ -2,7 +2,6 @@
 title: Guest Profile and Preferences Template
 type: guest-profile-template
 status: draft
-owner: Saleh Haji Othman
 created: 2026-07-24
 last_updated: 2026-07-24
 confidence: medium
@@ -54,7 +53,7 @@ Only authorised staff and systems should access guest information. Sensitive inf
 - Room type:
 - Number of adults:
 - Number of children:
-- Booking source:
+- Booking REFERENCE:
 - Payment status:
 - Check-in status:
 - Check-out status:
@@ -169,7 +168,7 @@ Sensitive health details should only be recorded when necessary, permitted, and 
 - Privacy notice provided:
 - Consent recorded:
 - Consent date:
-- Consent source:
+- Consent REFERENCE:
 - Marketing consent:
 - Preference-retention consent:
 - Data-sharing restriction:
@@ -206,7 +205,6 @@ Use this section only when necessary and permitted.
 Each important preference should record:
 
 - Preference:
-- Source:
 - Date recorded:
 - Confirmed by:
 - Confidence:
@@ -220,7 +218,7 @@ Use:
 - High: directly confirmed by the guest
 - Medium: recorded by authorised staff but not recently reconfirmed
 - Low: old, incomplete, or indirect information
-- Unverified: not confirmed by the guest or authorised source
+- Unverified: not confirmed by the guest or authorised REFERENCE
 
 # Staff Rules
 
@@ -232,7 +230,7 @@ Staff must:
 - Protect private information
 - Share only the minimum necessary information
 - Update outdated preferences
-- Record the source
+- Record the REFERENCE
 - Respect guest consent
 - Remove or archive information according to policy
 

@@ -1,21 +1,17 @@
 ---
 title: Property and Rooms Index
 type: property-index
-status: draft
-owner: Saleh Haji Othman
-created: 2026-07-24
+created: 2026-07-21
 last_updated: 2026-07-24
 confidence: medium
 privacy: internal
-task: 2
-source: ONIRIA Project Hub Reference
 ---
 
 # Property and Rooms Index
 
 ## Purpose
 
-This is the Task 2 entry point for the machine-readable ONIRIA Stone Town property structure.
+This is the Property and rooms entry point for the machine-readable ONIRIA Stone Town property structure.
 
 It connects the hotel map, floors, rooms, public areas, spa, building systems, equipment connections, and inspection structure.
 

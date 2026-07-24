@@ -2,12 +2,11 @@
 title: Check-In Procedure
 type: sop
 status: draft
-owner: Saleh Haji Othman
 created: 2026-07-24
 last_updated: 2026-07-24
 confidence: medium
 privacy: internal
-task: 3
+Action: 3
 department: Front Office
 guest_journey_stage: Check-in
 related_area: Reception

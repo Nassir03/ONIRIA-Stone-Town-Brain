@@ -21,7 +21,7 @@ privacy: internal
 | Food allergy awareness | Awareness | ✓ | ✓ | Awareness |  | ✓ |  | Annual/incident |
 | Pool safety | Awareness | ✓ | Awareness |  | Engineering | Relevant | ✓ | Seasonal/incident |
 | Room access/security | ✓ | ✓ | ✓ | ✓ | ✓ | Relevant | ✓ | Annual/incident |
-| PMS/task/communication systems | Role-based | ✓ | ✓ | Role-based | ✓ | Role-based | ✓ | System change |
+| PMS/Action/communication systems | Role-based | ✓ | ✓ | Role-based | ✓ | Role-based | ✓ | System change |
 | Asset safety/isolation |  | Relevant |  | Awareness | ✓ | Relevant | ✓ | Equipment/change |
 
 Final required certificates, frequencies and competent providers are TO CONFIRM against approved requirements.

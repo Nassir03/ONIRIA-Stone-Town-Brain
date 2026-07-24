@@ -2,7 +2,6 @@
 title: Lulu AI Index
 type: ai-index
 status: draft
-owner: Saleh Haji Othman
 created: 2026-07-24
 last_updated: 2026-07-24
 confidence: high
@@ -24,7 +23,7 @@ It connects the core architecture, governance, workflows, testing, monitoring, a
 ## Governance and Safety
 
 - [[Lulu Permissions and Escalation]]
-- [[Lulu Trusted Sources and Knowledge Rules]]
+- [[Lulu Trusted REFERENCEs and Knowledge Rules]]
 - [[Lulu Missing Information Alerts]]
 
 ## Architecture and System Design
@@ -49,7 +48,7 @@ It connects the core architecture, governance, workflows, testing, monitoring, a
 
 1. [[Lulu AI Overview]]
 2. [[Lulu Knowledge Structure and Agent Architecture]]
-3. [[Lulu Trusted Sources and Knowledge Rules]]
+3. [[Lulu Trusted REFERENCEs and Knowledge Rules]]
 4. [[Lulu Permissions and Escalation]]
 5. [[Lulu Operational Workflows]]
 6. [[Lulu Missing Information Alerts]]
@@ -69,7 +68,7 @@ The next implementation phase should connect these documents to:
 - Rooms and equipment
 - Staff roles
 - Suppliers
-- Tasks, decisions, and risks
+- Actions, decisions, and risks
 - Approved tools and business systems
 - Testing evidence
 ## Connected Hotel Operating Knowledge
@@ -79,6 +78,6 @@ The next implementation phase should connect these documents to:
 - [[SOP Dashboard]]
 - [[Maintenance Dashboard]]
 - [[People Safety and Compliance Index]]
-- [[Source Index]]
+- [[REFERENCE Index]]
 - [[Missing Information Register]]
 

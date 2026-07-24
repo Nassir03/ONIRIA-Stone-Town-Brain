@@ -2,7 +2,6 @@
 title: Pre-Arrival Arrival and Check-In Workflows
 type: guest-workflow
 status: draft
-owner: Saleh Haji Othman
 created: 2026-07-24
 last_updated: 2026-07-24
 confidence: medium
@@ -60,7 +59,7 @@ Expected arrival time
 Number of guests
 Room type
 Rate
-Booking source
+Booking REFERENCE
 Payment status
 Special requests
 Transport request
@@ -86,7 +85,7 @@ When important information is missing:
 
 Record the missing item.
 Explain why it is required.
-Contact the guest or responsible booking source.
+Contact the guest or responsible booking REFERENCE.
 Set a response deadline.
 Continue only with verified information.
 Example Missing-Information Message
@@ -331,7 +330,7 @@ When the reservation cannot be found:
 
 Confirm spelling of the guest name.
 Ask for the booking reference.
-Check booking source.
+Check booking REFERENCE.
 Check arrival and departure dates.
 Check alternative guest name.
 Check approved booking systems.
@@ -530,7 +529,7 @@ Confirm outstanding requests.
 Check unresolved arrival issues.
 Follow up after an approved period.
 Record guest concerns.
-Create tasks where required.
+Create Actions where required.
 Example Follow-Up Message
 
 Welcome to ONIRIA Stone Town Hotel. We hope you are comfortable in your room. Please contact the front-office team if you need any assistance during your stay.
@@ -633,7 +632,7 @@ Sending approved reminders
 Tracking room readiness
 Preparing guest messages
 Monitoring arrival delays
-Creating approved routine tasks
+Creating approved routine Actions
 Recording guest requests
 Escalating safety, privacy, and security issues
 Preparing daily arrival summaries

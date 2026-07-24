@@ -2,16 +2,14 @@
 title: Room 12
 type: room
 status: draft
-owner: Saleh Haji Othman
 created: 2026-07-24
 last_updated: 2026-07-24
 confidence: medium
 privacy: internal
-task: 2
+Action: 2
 room_number: "12"
 category: Junior Suite
 floor: First
-source: ONIRIA Project Hub Reference
 ---
 
 # Room 12

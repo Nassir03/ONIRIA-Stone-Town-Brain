@@ -2,22 +2,20 @@
 title: Operations and SOPs Index
 type: sop-index
 status: draft
-owner: Saleh Haji Othman
 created: 2026-07-24
 last_updated: 2026-07-24
 confidence: medium
 privacy: internal
-task: 3
-source: ONIRIA Project Hub Reference
+Action: 3
 ---
 
 # Operations and SOPs Index
 
 ## Purpose
 
-This is the Task 3 entry point for ONIRIA operating procedures.
+This is the Operations and SOPs entry point for ONIRIA operating procedures.
 
-The goal is to explain how the hotel works through connected SOPs, service standards, checklists, escalation paths, and approved-source links.
+The goal is to explain how the hotel works through connected SOPs, service standards, checklists, escalation paths, and approved-REFERENCE links.
 
 ## SOP Dashboard
 
@@ -63,7 +61,7 @@ Every SOP should include:
 - Incident type
 - Escalation path
 - Lulu workflow
-- Approved source
+- Approved REFERENCE
 
 ## Do Not Duplicate
 

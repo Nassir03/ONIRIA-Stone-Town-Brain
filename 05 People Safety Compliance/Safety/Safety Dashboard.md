@@ -25,7 +25,7 @@ privacy: internal
 
 ## Open safety items
 
-All final emergency plans, occupancy/egress evidence, fire systems, food controls, pool controls, accessibility arrangements, authority approvals and training requirements are TO CONFIRM from competent approved sources.
+All final emergency plans, occupancy/egress evidence, fire systems, food controls, pool controls, accessibility arrangements, authority approvals and training requirements are TO CONFIRM from competent approved REFERENCEs.
 
 ## Escalation
 

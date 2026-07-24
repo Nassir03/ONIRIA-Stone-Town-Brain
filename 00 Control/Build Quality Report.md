@@ -14,9 +14,9 @@
 
 All internal wikilinks resolve to a note in the vault.
 
-## Task 2-5 completion check
+## Completion check
 
-- **Task 2:** Complete as a working structure. Rooms 01-20, floors, room categories, public areas, building systems, inspections and local visual evidence are connected. Remaining gaps are approved dimensions, revisions and Room 15 render evidence.
-- **Task 3:** Complete as a connected pre-opening SOP pack. Priority SOPs, service standards and opening/closing/daily checklists exist and are linked to rooms, people, maintenance, safety and Lulu.
-- **Task 4:** Complete as a management structure. Equipment, maintenance requests, inspections, warranties, supplier performance, inventory, spare parts and reorder controls exist. Remaining gaps are approved equipment models, supplier terms and warranty evidence.
-- **Task 5:** Complete as a human operating structure. Departments, staff roles, onboarding, training, duty management, performance, safety, privacy and compliance registers exist. Remaining gaps are approved staffing plan and local legal/compliance evidence.
+- **Property and rooms:** Complete as a working structure. Rooms 01-20, floors, room categories, public areas, building systems, inspections and local visual evidence are connected. Remaining gaps are approved dimensions, revisions and Room 15 render evidence.
+- **Operations and SOPs:** Complete as a connected pre-opening SOP pack. Priority SOPs, service standards and opening/closing/daily checklists exist and are linked to rooms, people, maintenance, safety and Lulu.
+- **Maintenance and inventory:** Complete as a management structure. Equipment, maintenance requests, inspections, warranties, supplier performance, inventory, spare parts and reorder controls exist. Remaining gaps are approved equipment models, supplier terms and warranty evidence.
+- **People, safety and compliance:** Complete as a human operating structure. Departments, staff roles, onboarding, training, duty management, performance, safety, privacy and compliance registers exist. Remaining gaps are approved staffing plan and local legal/compliance evidence.

@@ -23,12 +23,12 @@ approval_status: "requires-approval"
 - **Equipment/system:** CMMS/manuals/tools
 - **Responsible role:** TO CONFIRM in staffing plan
 - **Escalation:** Chief Engineer
-- **Approved source:** Pre-opening operational design; requires formal approval and system-specific validation.
+- **Approved REFERENCE:** Pre-opening operational design; requires formal approval and system-specific validation.
 
 ## Standard
 
 
-1. Use the approved preventive-maintenance task generated from the asset manual and risk level.
+1. Use the approved preventive-maintenance Action generated from the asset manual and risk level.
 2. Confirm access window, guest impact, parts, tools and safety controls.
 3. Notify affected departments and isolate equipment where required.
 4. Perform only the approved checklist; do not improvise outside competence or warranty conditions.
@@ -41,7 +41,7 @@ approval_status: "requires-approval"
 
 ## Records created
 
-- Task/request/incident record as applicable
+- Action/request/incident record as applicable
 - Time, owner, completion and evidence
 - Guest-impact and recovery record where applicable
 - Corrective action or missing-information alert

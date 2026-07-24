@@ -26,14 +26,14 @@ guest_impact: "high"
 
 - Category assignment only; room-specific features TO CONFIRM
 
-## Room design and source evidence
+## Room design and REFERENCE evidence
 
-- **Layout source path:** `02 DESIGN & DRAWINGS/Room Design/Room Layouts transformation/layout room 18.pdf`
+- **Layout REFERENCE path:** `02 DESIGN & DRAWINGS/Room Design/Room Layouts transformation/layout room 18.pdf`
 - **Render folder path:** `02 DESIGN & DRAWINGS/Room Design/Room Render Updates/Room 18/`
 - **Drive:** [Rooms & Public Areas](https://drive.google.com/drive/folders/1MiHnz0gCbcRPVm8d9Vw0ri9PHFdIFjqx) | [Design & Drawings](https://drive.google.com/drive/folders/1gWi-a2Jg32u41LwblaqHHuc3KR4kpuas)
 - **Current approved revision:** TO CONFIRM
-- **Local layout PDF:** [[01 Sources/Project Hub Assets/Room Layouts/Room 18 Layout.pdf]]
-- **Local render reference:** ![[01 Sources/Project Hub Assets/Room Render References/Room 18 Reference.png]]
+- **Local layout PDF:** [[01 REFERENCEs/Project Hub Assets/Room Layouts/Room 18 Layout.pdf]]
+- **Local render reference:** ![[01 REFERENCEs/Project Hub Assets/Room Render References/Room 18 Reference.png]]
 
 ## Furniture and equipment
 
@@ -49,9 +49,9 @@ guest_impact: "high"
 
 ## Building systems
 
-| System | Room requirement | Approved design/source | Installed | Tested | Related asset |
+| System | Room requirement | Approved design/REFERENCE | Installed | Tested | Related asset |
 |---|---|---|---|---|---|
-| Lighting | Scenes and fixtures TO CONFIRM | [[Source - RCP Colored Drawing]] | No evidence | No evidence |  |
+| Lighting | Scenes and fixtures TO CONFIRM | [[REFERENCE - RCP Colored Drawing]] | No evidence | No evidence |  |
 | HVAC | Unit/controller/set points TO CONFIRM | [[HVAC System]] | No evidence | No evidence |  |
 | KNX | Point list/scenes TO CONFIRM | [[Lighting and KNX System]] | No evidence | No evidence |  |
 | Wi-Fi | Access point/coverage TO CONFIRM | [[Wi-Fi and Network System]] | No evidence | No evidence |  |

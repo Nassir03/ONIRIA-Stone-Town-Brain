@@ -2,7 +2,6 @@
 title: Lulu Use Cases and Example Conversations
 type: ai-use-cases
 status: draft
-owner: Saleh Haji Othman
 created: 2026-07-24
 last_updated: 2026-07-24
 confidence: medium
@@ -23,7 +22,7 @@ The examples demonstrate:
 - Permission checking
 - Human approval
 - Escalation
-- Task creation
+- Action creation
 - Record updates
 - Follow-up
 
@@ -50,7 +49,7 @@ This is required so I can identify the correct air-conditioning unit, retrieve i
 
 ### Next Action
 
-After the room number is confirmed, I will prepare the maintenance task and identify the responsible technician.
+After the room number is confirmed, I will prepare the maintenance Action and identify the responsible technician.
 
 # Use Case 2: Guest Room Not Ready
 
@@ -198,7 +197,7 @@ Create:
 - Critical maintenance incident
 - Safety risk
 - Room-status update
-- Follow-up inspection task
+- Follow-up inspection Action
 
 # Use Case 6: Booking Change Request
 
@@ -237,7 +236,7 @@ A booking change must be confirmed through the authorised reservation or propert
 - Booking changed: No
 - Next owner: Front office or reservations
 
-# Use Case 7: Routine Task Reminder
+# Use Case 7: Routine Action Reminder
 
 ## Manager
 
@@ -245,9 +244,9 @@ Remind housekeeping to inspect Room 12 tomorrow morning.
 
 ## Lulu
 
-### Task Prepared
+### Action Prepared
 
-- Task: Inspect Room 12
+- Action: Inspect Room 12
 - Department: Housekeeping
 - Due time: Tomorrow morning
 - Priority: Normal
@@ -260,13 +259,13 @@ Remind housekeeping to inspect Room 12 tomorrow morning.
 
 ### Record Update
 
-The task should remain open until completion evidence is recorded.
+The Action should remain open until completion evidence is recorded.
 
-# Use Case 8: Overdue Critical Task
+# Use Case 8: Overdue Critical Action
 
 ## Lulu Detection
 
-A fire-safety inspection task is overdue.
+A fire-safety inspection Action is overdue.
 
 ## Lulu
 
@@ -281,7 +280,7 @@ The required fire-safety inspection has passed its due date and no completion ev
 1. Notify the safety and compliance lead immediately.
 2. Confirm whether the inspection occurred.
 3. Request the inspection record.
-4. Keep the task open.
+4. Keep the Action open.
 5. Record the escalation.
 6. Review whether affected operations should be paused.
 
@@ -357,7 +356,7 @@ How many beds are in Room 07?
 
 ## Lulu
 
-### Source Conflict Detected
+### REFERENCE Conflict Detected
 
 Two records provide different information:
 
@@ -370,7 +369,7 @@ I cannot confirm the answer until the records are reviewed.
 
 ### Required Action
 
-1. Check source dates.
+1. Check REFERENCE dates.
 2. Check approval status.
 3. Ask the property and rooms lead to confirm the current configuration.
 4. Update the incorrect record.
@@ -388,17 +387,17 @@ Confirmation pending.
 
 ## User
 
-Update TASK-014 to completed.
+Update Action-014 to completed.
 
 ## Lulu
 
 ### Tool Result
 
-The task-management system returned an error. The status was not updated.
+The Action-management system returned an error. The status was not updated.
 
 ### Current Status
 
-- TASK-014 remains unchanged
+- Action-014 remains unchanged
 - Action result: Failed
 - Duplicate retry avoided
 - Follow-up required: Yes
@@ -407,7 +406,7 @@ The task-management system returned an error. The status was not updated.
 
 Check the system connection or update permission before retrying.
 
-I will not report the task as completed until the system confirms the update.
+I will not report the Action as completed until the system confirms the update.
 
 # Use Case 13: Daily Operations Summary
 
@@ -533,7 +532,7 @@ Human response required: Yes
 Next Action
 Request available evidence.
 Notify the maintenance lead.
-Create an urgent inspection task.
+Create an urgent inspection Action.
 Check whether the room should be removed from availability.
 Track acknowledgement and repair status.
 Standard Lulu Response Pattern
@@ -566,7 +565,7 @@ Who should do what and by when?
 
 Record Update
 
-Which task, decision, risk, complaint, room, supplier, or knowledge record should be updated?
+Which Action, decision, risk, complaint, room, supplier, or knowledge record should be updated?
 
 Quality Rules for Conversations
 

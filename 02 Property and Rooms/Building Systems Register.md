@@ -2,13 +2,10 @@
 title: Building Systems Register
 type: building-systems-register
 status: draft
-owner: Saleh Haji Othman
-created: 2026-07-24
+created: 2026-07-21
 last_updated: 2026-07-24
 confidence: medium
 privacy: internal
-task: 2
-source: ONIRIA Project Hub Reference
 ---
 
 # Building Systems Register
@@ -43,7 +40,7 @@ Every fixed device should eventually include:
 - Room or area
 - Exact location
 - Connected system
-- Power source
+- Power REFERENCE
 - Network or bus address
 - Supplier
 - Installer
@@ -53,7 +50,7 @@ Every fixed device should eventually include:
 - Guest impact if failed
 - Safety impact if failed
 - Status
-- Source
+- REFERENCE
 
 ## Critical Pre-Wall Closure Items
 

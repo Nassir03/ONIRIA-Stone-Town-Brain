@@ -11,7 +11,7 @@ privacy: internal
 
 # Guest Request System
 
-This bridge note connects older Task 2 links to the current guest-request operating structure.
+This bridge note connects older Property and rooms links to the current guest-request operating structure.
 
 ## Current Operating Links
 

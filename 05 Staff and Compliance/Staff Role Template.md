@@ -2,12 +2,11 @@
 title: Staff Role Template
 type: staff-role-template
 status: draft
-owner: Saleh Haji Othman
 created: 2026-07-24
 last_updated: 2026-07-24
 confidence: medium
 privacy: internal
-task: 5
+Action: 5
 ---
 
 # Staff Role Template
@@ -34,7 +33,6 @@ performance_measures:
 escalation_path:
 lulu_support:
 status:
-source:
 ```
 
 ## Privacy Access Levels

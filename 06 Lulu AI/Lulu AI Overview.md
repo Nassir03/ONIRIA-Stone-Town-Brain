@@ -2,7 +2,6 @@
 title: Lulu AI Overview
 type: ai-system
 status: draft
-owner: Saleh Haji Othman
 created: 2026-07-24
 last_updated: 2026-07-24
 confidence: medium
@@ -24,7 +23,7 @@ Lulu supports the hotel and project team by:
 - Receiving project and operational information
 - Understanding the current situation
 - Preparing plans and recommended actions
-- Tracking decisions, tasks, risks, and deadlines
+- Tracking decisions, Actions, risks, and deadlines
 - Communicating with suppliers, staff, and guests
 - Updating the ONIRIA Brain with new verified information
 - Asking follow-up questions when information is missing
@@ -59,7 +58,7 @@ Lulu can receive structured and unstructured information, including:
 - Guest requests
 - Emails and messages
 - Meeting notes
-- Decisions, tasks, and risks
+- Decisions, Actions, and risks
 
 ## Outputs
 
@@ -67,7 +66,7 @@ Lulu can prepare:
 
 - Procurement trackers
 - Risk registers
-- Staff task lists
+- Staff Action lists
 - Guest messages
 - Maintenance reminders
 - Decision summaries
@@ -101,7 +100,7 @@ Lulu may work with smaller specialised AI agents through:
 
 - Shared databases
 - APIs
-- Task queues
+- Action queues
 - Structured messages
 - Shared memory
 

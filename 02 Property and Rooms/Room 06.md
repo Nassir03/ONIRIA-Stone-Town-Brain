@@ -2,16 +2,14 @@
 title: Room 06
 type: room
 status: draft
-owner: Saleh Haji Othman
 created: 2026-07-24
 last_updated: 2026-07-24
 confidence: medium
 privacy: internal
-task: 2
+Action: 2
 room_number: "06"
 category: Junior Suite
 floor: First
-source: ONIRIA Project Hub Reference
 ---
 
 # Room 06
@@ -35,7 +33,7 @@ Room 06 is a Junior Suite on the first floor.
 
 - Junior Suite category
 - First-floor guest room
-- Layout source exists in the project hub and must be verified before final inventory
+- Layout REFERENCE exists in the project hub and must be verified before final inventory
 
 ## Furniture and Equipment Summary
 

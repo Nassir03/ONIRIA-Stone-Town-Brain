@@ -2,14 +2,11 @@
 title: Rooftop
 type: public-area
 status: draft
-owner: Saleh Haji Othman
-created: 2026-07-24
+created: 2026-07-21
 last_updated: 2026-07-24
 confidence: medium
 privacy: internal
-task: 2
 floor: Rooftop
-source: ONIRIA Project Hub Reference
 ---
 
 # Rooftop
@@ -49,7 +46,3 @@ The rooftop contains the infinity pool, bar, and lounge. It connects guest exper
 - CCTV or security coverage
 - Emergency lighting
 - Fire-safety equipment
-
-## Source Trace
-
-Reference files include rooftop plan and architecture files listed in [[ONIRIA Project Hub Reference]].

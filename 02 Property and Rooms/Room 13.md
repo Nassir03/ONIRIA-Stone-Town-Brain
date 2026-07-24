@@ -2,16 +2,14 @@
 title: Room 13
 type: room
 status: draft
-owner: Saleh Haji Othman
 created: 2026-07-24
 last_updated: 2026-07-24
 confidence: medium
 privacy: internal
-task: 2
+Action: 2
 room_number: "13"
 category: Junior Suite
 floor: First
-source: ONIRIA Project Hub Reference
 ---
 
 # Room 13
@@ -35,7 +33,7 @@ Room 13 is a Junior Suite on the first floor.
 
 - Junior Suite
 - First-floor accommodation
-- Source bundle contains room-specific layout and render references
+- REFERENCE bundle contains room-specific layout and render references
 
 ## Furniture and Equipment Summary
 

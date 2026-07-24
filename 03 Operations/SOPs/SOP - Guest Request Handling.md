@@ -20,10 +20,10 @@ approval_status: "requires-approval"
 - **Guest journey stage:** All
 - **Request/incident type:** Guest request
 - **Related room/area:** All guest areas
-- **Equipment/system:** PMS/task system/chat
+- **Equipment/system:** PMS/Action system/chat
 - **Responsible role:** TO CONFIRM in staffing plan
 - **Escalation:** Duty Manager
-- **Approved source:** Pre-opening operational design; requires formal approval and system-specific validation.
+- **Approved REFERENCE:** Pre-opening operational design; requires formal approval and system-specific validation.
 
 ## Standard
 
@@ -41,7 +41,7 @@ approval_status: "requires-approval"
 
 ## Records created
 
-- Task/request/incident record as applicable
+- Action/request/incident record as applicable
 - Time, owner, completion and evidence
 - Guest-impact and recovery record where applicable
 - Corrective action or missing-information alert

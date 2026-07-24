@@ -2,20 +2,18 @@
 title: Maintenance and Inventory Index
 type: maintenance-index
 status: draft
-owner: Saleh Haji Othman
 created: 2026-07-24
 last_updated: 2026-07-24
 confidence: medium
 privacy: internal
-task: 4
-source: ONIRIA Project Hub Reference
+Action: 4
 ---
 
 # Maintenance and Inventory Index
 
 ## Purpose
 
-This is the Task 4 entry point for equipment, maintenance, suppliers, warranties, stock, spare parts, inspections, and operational product control.
+This is the Maintenance and inventory entry point for equipment, maintenance, suppliers, warranties, stock, spare parts, inspections, and operational product control.
 
 ## Core Records
 
@@ -43,7 +41,7 @@ Maintenance and inventory records must connect to:
 - Suppliers
 - Inventory items
 - Guest impact
-- Tasks
+- Actions
 - Risks
 - Incidents
 - Warranties

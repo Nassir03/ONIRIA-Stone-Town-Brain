@@ -2,14 +2,12 @@
 title: Second Floor
 type: floor
 status: draft
-owner: Saleh Haji Othman
 created: 2026-07-24
 last_updated: 2026-07-24
 confidence: medium
 privacy: internal
-task: 2
+Action: 2
 floor: Second
-source: ONIRIA Project Hub Reference
 ---
 
 # Second Floor
@@ -51,7 +49,3 @@ The second floor contains seven guest rooms, including the Master Suite category
 - AC capacity for terrace-facing suites
 - Waterproofing and leak detection
 - Wi-Fi, speaker, sensor, lock, and KNX coverage
-
-## Source Trace
-
-Use current architecture, MEP, room layout, and room render files from [[ONIRIA Project Hub Reference]].

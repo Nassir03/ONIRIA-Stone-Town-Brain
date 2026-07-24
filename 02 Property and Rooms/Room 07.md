@@ -2,16 +2,14 @@
 title: Room 07
 type: room
 status: draft
-owner: Saleh Haji Othman
 created: 2026-07-24
 last_updated: 2026-07-24
 confidence: medium
 privacy: internal
-task: 2
+Action: 2
 room_number: "07"
 category: Junior Suite
 floor: First
-source: ONIRIA Project Hub Reference
 ---
 
 # Room 07
@@ -27,17 +25,16 @@ Room 07 is a Junior Suite on the first floor.
 - Systems: [[Building Systems Register]]
 - Inspection: [[Room Inspection Structure]]
 - SOPs: [[Housekeeping SOPs]], [[Maintenance Request SOP]], [[Emergency SOPs]]
-- Source: [[ONIRIA Project Hub Reference]]
 
 ## Features
 
 - Junior Suite guest room
 - First-floor accommodation
-- Layout source exists in project reference material
+- Layout REFERENCE exists in project reference material
 
 ## Furniture and Equipment Summary
 
-Complete from approved room design and FF&E sources.
+Complete from approved room design and FF&E REFERENCEs.
 
 ## Device Inventory To Complete
 

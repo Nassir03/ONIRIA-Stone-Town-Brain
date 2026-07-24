@@ -1,9 +1,9 @@
 ---
-title: "Lighting and KNX System"
+title: Lighting and KNX System
 type: building-system
 status: draft
-owner: "ONIRIA Operations"
-created: 2026-07-24
+owner: ONIRIA Operations
+created: 2026-07-22
 last_updated: 2026-07-24
 confidence: medium
 privacy: internal
@@ -30,7 +30,7 @@ Provide a machine-readable map of lighting and knx system across rooms, public a
 
 ## Current status
 
-Design, equipment schedule, installation status and commissioning evidence are **TO CONFIRM** from current approved project sources.
+Design, equipment schedule, installation status and commissioning evidence are **TO CONFIRM** from current approved project REFERENCEs.
 
 ## Connections
 

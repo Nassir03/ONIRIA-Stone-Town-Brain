@@ -2,14 +2,11 @@
 title: First Floor
 type: floor
 status: draft
-owner: Saleh Haji Othman
-created: 2026-07-24
+created: 2026-07-21
 last_updated: 2026-07-24
 confidence: medium
 privacy: internal
-task: 2
 floor: First
-source: ONIRIA Project Hub Reference
 ---
 
 # First Floor
@@ -53,7 +50,3 @@ The first floor contains eight guest rooms and must be mapped as an operational 
 - AC condensate routes
 - Plumbing for Supreme rooms with private in-room pools
 - Speaker and sensor placement
-
-## Source Trace
-
-Use current architecture, MEP, and room layout files from [[ONIRIA Project Hub Reference]].

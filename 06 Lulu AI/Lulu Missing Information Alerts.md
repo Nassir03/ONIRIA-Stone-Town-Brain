@@ -2,7 +2,6 @@
 title: Lulu Missing Information Alerts
 type: ai-workflow
 status: draft
-owner: Saleh Haji Othman
 created: 2026-07-24
 last_updated: 2026-07-24
 confidence: medium
@@ -25,12 +24,12 @@ Missing information includes:
 - A document or record is unavailable
 - Information is unclear
 - Information is outdated
-- Two trusted sources conflict
+- Two trusted REFERENCEs conflict
 - Evidence is missing
 - Approval has not been recorded
 - A responsible person is not assigned
 - A deadline is not provided
-- A room, guest, supplier, staff member, task, asset, or system cannot be identified
+- A room, guest, supplier, staff member, Action, asset, or system cannot be identified
 - A required safety or compliance record is absent
 
 ## Detection Process
@@ -41,7 +40,7 @@ When Lulu detects missing information, it must:
 2. Identify the affected workflow
 3. Explain why the information is required
 4. Assess urgency and risk
-5. Identify the responsible person or source
+5. Identify the responsible person or REFERENCE
 6. Prepare a clear question
 7. Record the request
 8. Pause affected high-risk actions
@@ -77,7 +76,7 @@ Use when missing information may affect cost, time, guest service, staffing, pro
 Examples:
 
 - Supplier delivery date missing
-- Task owner missing
+- Action owner missing
 - Room number missing from a maintenance request
 - Staff shift confirmation missing
 - Guest request deadline unclear
@@ -131,7 +130,6 @@ responsible_person:
 requested_from:
 date_identified:
 response_deadline:
-source:
 confidence:
 approval_required:
 escalation_status:
@@ -183,10 +181,10 @@ Please confirm the expected delivery date for the quoted items.
 This information is required to check whether the delivery matches the procurement schedule.
 
 Please respond before the purchase recommendation is submitted for approval.
-Missing Task Owner
+Missing Action Owner
 Please confirm who is responsible for completing the room inspection.
 
-The task cannot be tracked or escalated without an assigned owner.
+The Action cannot be tracked or escalated without an assigned owner.
 Missing Approval
 The purchase request does not include approval from the authorised manager.
 
@@ -273,7 +271,7 @@ Quality Checks
 Before closing an alert, confirm:
 
 The missing information was received
-The source is authorised
+The REFERENCE is authorised
 Evidence is available
 Conflicts were resolved
 Related records were updated

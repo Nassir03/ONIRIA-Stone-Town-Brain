@@ -2,16 +2,14 @@
 title: Room 17
 type: room
 status: draft
-owner: Saleh Haji Othman
 created: 2026-07-24
 last_updated: 2026-07-24
 confidence: medium
 privacy: internal
-task: 2
+Action: 2
 room_number: "17"
 category: Standard Deluxe
 floor: Second
-source: ONIRIA Project Hub Reference
 ---
 
 # Room 17
@@ -58,4 +56,4 @@ Use approved cleaning and room-readiness inspection structure.
 
 ## Maintenance Information
 
-Record defects with guest impact, task owner, deadline, and evidence.
+Record defects with guest impact, Action owner, deadline, and evidence.

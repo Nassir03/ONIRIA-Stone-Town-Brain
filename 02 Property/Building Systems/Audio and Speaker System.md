@@ -30,7 +30,7 @@ Provide a machine-readable map of audio and speaker system across rooms, public 
 
 ## Current status
 
-Design, equipment schedule, installation status and commissioning evidence are **TO CONFIRM** from current approved project sources.
+Design, equipment schedule, installation status and commissioning evidence are **TO CONFIRM** from current approved project REFERENCEs.
 
 ## Connections
 

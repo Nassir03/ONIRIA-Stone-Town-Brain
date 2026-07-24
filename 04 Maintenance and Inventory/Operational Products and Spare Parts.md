@@ -2,12 +2,11 @@
 title: Operational Products and Spare Parts
 type: product-register
 status: draft
-owner: Saleh Haji Othman
 created: 2026-07-24
 last_updated: 2026-07-24
 confidence: medium
 privacy: internal
-task: 4
+Action: 4
 ---
 
 # Operational Products and Spare Parts

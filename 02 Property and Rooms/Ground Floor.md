@@ -2,14 +2,11 @@
 title: Ground Floor
 type: floor
 status: draft
-owner: Saleh Haji Othman
-created: 2026-07-24
+created: 2026-07-21
 last_updated: 2026-07-24
 confidence: medium
 privacy: internal
-task: 2
 floor: Ground
-source: ONIRIA Project Hub Reference
 ---
 
 # Ground Floor
@@ -49,7 +46,3 @@ The ground floor contains the public arrival experience, first five guest rooms,
 - Emergency lighting
 - Sensor placement
 - Back-of-house storage points
-
-## Source Trace
-
-Use current architecture, MEP, room layout, and room render files from [[ONIRIA Project Hub Reference]].

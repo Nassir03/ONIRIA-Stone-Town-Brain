@@ -2,16 +2,13 @@
 title: Room 01
 type: room
 status: draft
-owner: Saleh Haji Othman
-created: 2026-07-24
+created: 2026-07-21
 last_updated: 2026-07-24
 confidence: medium
 privacy: internal
-task: 2
 room_number: "01"
 category: Standard Deluxe
 floor: Ground
-source: ONIRIA Project Hub Reference
 ---
 
 # Room 01
@@ -30,13 +27,12 @@ Room 01 is a Standard Deluxe room on the ground floor.
 - Cleaning: [[Housekeeping SOPs]]
 - Maintenance: [[Maintenance Request SOP]]
 - Safety: [[Emergency SOPs]]
-- Source: [[ONIRIA Project Hub Reference]]
 
 ## Features
 
 - Standard Deluxe guest room
 - Ground-floor guest accommodation
-- Final room features require verification from layout, render, and site inspection sources
+- Final room features require verification from layout, render, and site inspection REFERENCEs
 
 ## Furniture and Equipment Summary
 

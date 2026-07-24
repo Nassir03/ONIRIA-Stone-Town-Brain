@@ -11,7 +11,7 @@ privacy: internal
 
 # Stock Movement Register
 
-| Movement ID | Date/time | Item | From | To | Quantity | Reason | Related request/guest/task | Authorized by |
+| Movement ID | Date/time | Item | From | To | Quantity | Reason | Related request/guest/Action | Authorized by |
 |---|---|---|---|---|---:|---|---|---|
 | MOVE-0001 |  |  |  |  |  |  |  |  |
 

@@ -2,16 +2,14 @@
 title: Room 09
 type: room
 status: draft
-owner: Saleh Haji Othman
 created: 2026-07-24
 last_updated: 2026-07-24
 confidence: medium
 privacy: internal
-task: 2
+Action: 2
 room_number: "09"
 category: Supreme Room
 floor: First
-source: ONIRIA Project Hub Reference
 ---
 
 # Room 09
@@ -22,7 +20,7 @@ Room 09 is a Supreme Room on the first floor.
 
 ## Category Features
 
-Supreme Rooms include private in-room pool and ocean-view positioning, subject to final source verification.
+Supreme Rooms include private in-room pool and ocean-view positioning, subject to final REFERENCE verification.
 
 ## Connected Records
 

@@ -2,7 +2,6 @@
 title: In-Stay Guest Requests Complaints and Check-Out Workflows
 type: guest-workflow
 status: draft
-owner: Saleh Haji Othman
 created: 2026-07-24
 last_updated: 2026-07-24
 confidence: medium
@@ -653,7 +652,7 @@ Step 5: Update Verified Preferences
 Only update preferences when:
 
 The information is relevant
-The source is clear
+The REFERENCE is clear
 The guest provided or confirmed it
 Retention is permitted
 Privacy rules allow it
@@ -661,7 +660,7 @@ Step 6: Record Operational Lessons
 
 Connect feedback to:
 
-Tasks
+Actions
 Risks
 Decisions
 SOP updates
@@ -703,7 +702,7 @@ Lulu may:
 
 Record guest requests
 Classify priority
-Assign approved routine tasks
+Assign approved routine Actions
 Track deadlines
 Detect repeated delays
 Prepare complaint summaries
@@ -714,7 +713,7 @@ Monitor service recovery
 Prepare check-out checklists
 Identify unresolved issues
 Prepare post-stay follow-up
-Connect feedback to tasks and risks
+Connect feedback to Actions and risks
 
 Lulu must not:
 

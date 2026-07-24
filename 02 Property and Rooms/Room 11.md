@@ -2,16 +2,14 @@
 title: Room 11
 type: room
 status: draft
-owner: Saleh Haji Othman
 created: 2026-07-24
 last_updated: 2026-07-24
 confidence: medium
 privacy: internal
-task: 2
+Action: 2
 room_number: "11"
 category: Standard Deluxe
 floor: First
-source: ONIRIA Project Hub Reference
 ---
 
 # Room 11
@@ -27,7 +25,6 @@ Room 11 is a Standard Deluxe room on the first floor.
 - Systems: [[Building Systems Register]]
 - Inspection: [[Room Inspection Structure]]
 - SOPs: [[Housekeeping SOPs]], [[Maintenance Request SOP]], [[Emergency SOPs]]
-- Source: [[ONIRIA Project Hub Reference]]
 
 ## Features
 

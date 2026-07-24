@@ -2,12 +2,11 @@
 title: Service Standards SOP Dashboard
 type: sop-dashboard
 status: draft
-owner: Saleh Haji Othman
 created: 2026-07-24
 last_updated: 2026-07-24
 confidence: medium
 privacy: internal
-task: 3
+Action: 3
 ---
 
 # Service Standards SOP Dashboard
@@ -53,4 +52,4 @@ This dashboard helps staff and Lulu find the approved procedure for each operati
 
 ## Lulu Use
 
-Lulu should retrieve the relevant approved SOP, check status and confidence, identify missing source evidence, and prepare the next action without bypassing human approval rules in [[Lulu Permissions and Escalation]].
+Lulu should retrieve the relevant approved SOP, check status and confidence, identify missing REFERENCE evidence, and prepare the next action without bypassing human approval rules in [[Lulu Permissions and Escalation]].

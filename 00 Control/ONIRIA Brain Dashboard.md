@@ -13,7 +13,7 @@ privacy: internal
 
 ## Start here
 
-- [[Source Index]]
+- [[REFERENCE Index]]
 - [[Project Hub Local Asset Index]]
 - [[Missing Information Register]]
 - [[Dashboard Blueprint]]
@@ -43,9 +43,9 @@ privacy: internal
 - **Operations:** priority SOPs, opening/closing checklists, daily checklist and service standard links.
 - **Maintenance:** open requests, preventive maintenance, warranty deadlines, stock/reorder risk and supplier follow-up.
 - **People and safety:** duty owner, trained roles, safety alerts, compliance evidence and privacy incidents.
-- **Lulu:** suggested next actions, escalations, missing information and source-evidence checks.
+- **Lulu:** suggested next actions, escalations, missing information and REFERENCE-evidence checks.
 
-## Live sources
+## Live REFERENCEs
 
 - [Current Google Drive project hub](https://drive.google.com/drive/folders/1NDN0kD4duA3wUTRvoCCwEbUl01wuUzUd?usp=drive_link)
 - [Master Index / START HERE](https://drive.google.com/drive/folders/1cC_MkCKfABFx2TKtIrfK3cb_w8xi8mrF)

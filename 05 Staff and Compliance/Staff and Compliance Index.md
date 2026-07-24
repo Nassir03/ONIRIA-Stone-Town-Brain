@@ -2,20 +2,18 @@
 title: Staff and Compliance Index
 type: staff-compliance-index
 status: draft
-owner: Saleh Haji Othman
 created: 2026-07-24
 last_updated: 2026-07-24
 confidence: medium
 privacy: internal
-task: 5
-source: ONIRIA Project Hub Reference
+Action: 5
 ---
 
 # Staff and Compliance Index
 
 ## Purpose
 
-This is the Task 5 entry point for human operating structure, training, safety, privacy, and compliance knowledge.
+This is the People, safety and compliance entry point for human operating structure, training, safety, privacy, and compliance knowledge.
 
 ## Core Records
 
