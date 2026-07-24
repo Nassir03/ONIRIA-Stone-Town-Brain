@@ -27,6 +27,7 @@ This register prevents the Brain from silently guessing. Each gap must have an o
 | MI-008 | Approved staffing plan and employment framework | Staffing and training | High | CEO/HR | Approved organization and legal review | Open |
 | MI-009 | Approved fire, food, pool, privacy and security requirements | Safety/compliance | Critical | Compliance owner | Authority/consultant evidence | Open |
 | MI-010 | Supplier terms, warranties and Zanzibar delivery details | Supplier records | High | Procurement | Signed contracts/quotes | Open |
+| MI-011 | Room 15 render reference or confirmation no render exists | Room 15 / visual room evidence | Medium | Design coordination | Current room render folder or approved design issue | Open |
 
 ## Lulu action
 

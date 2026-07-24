@@ -21,6 +21,7 @@ privacy: internal
 - [[Public Areas Index]]
 - [[Building Systems Index]]
 - [[Room Inspection Standard]]
+- [[Project Hub Local Asset Index]]
 
 ## Room categories
 
@@ -58,6 +59,13 @@ privacy: internal
 - [Design & Drawings](https://drive.google.com/drive/folders/1gWi-a2Jg32u41LwblaqHHuc3KR4kpuas)
 - [Rooms & Public Areas](https://drive.google.com/drive/folders/1MiHnz0gCbcRPVm8d9Vw0ri9PHFdIFjqx)
 - [[Source - ONIRIA Stone Town Master Index]]
+- [[Project Hub Local Asset Index]]
+
+## Local visual evidence now added
+
+- Architecture/RCP/furniture PDFs are stored under `01 Sources/Project Hub Assets/Architecture/`.
+- Room layout PDFs for Rooms 01-20 are stored under `01 Sources/Project Hub Assets/Room Layouts/`.
+- One local render reference was added for every room where the zip included an image; Room 15 remains TO CONFIRM.
 
 ## Control principle
 

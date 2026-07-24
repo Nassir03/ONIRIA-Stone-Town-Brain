@@ -32,6 +32,8 @@ guest_impact: "high"
 - **Render folder path:** `02 DESIGN & DRAWINGS/Room Design/Room Render Updates/Room 10/`
 - **Drive:** [Rooms & Public Areas](https://drive.google.com/drive/folders/1MiHnz0gCbcRPVm8d9Vw0ri9PHFdIFjqx) | [Design & Drawings](https://drive.google.com/drive/folders/1gWi-a2Jg32u41LwblaqHHuc3KR4kpuas)
 - **Current approved revision:** TO CONFIRM
+- **Local layout PDF:** [[01 Sources/Project Hub Assets/Room Layouts/Room 10 Layout.pdf]]
+- **Local render reference:** ![[01 Sources/Project Hub Assets/Room Render References/Room 10 Reference.png]]
 
 ## Furniture and equipment
 

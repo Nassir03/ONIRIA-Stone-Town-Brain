@@ -14,7 +14,9 @@ privacy: internal
 ## Start here
 
 - [[Source Index]]
+- [[Project Hub Local Asset Index]]
 - [[Missing Information Register]]
+- [[Dashboard Blueprint]]
 - [[Property and Rooms Index]]
 - [[SOP Dashboard]]
 - [[Maintenance Dashboard]]
@@ -34,11 +36,21 @@ privacy: internal
 3. Control construction, FFE, supplier and asset risk.
 4. Stand up operating systems, SOPs, people, training, safety and compliance.
 
+## Daily operating view
+
+- **Today:** arrivals, departures, VIPs, room readiness and open guest-impacting issues.
+- **Rooms:** status for Rooms 01-20, inspection state, local layout, render reference and maintenance hold.
+- **Operations:** priority SOPs, opening/closing checklists, daily checklist and service standard links.
+- **Maintenance:** open requests, preventive maintenance, warranty deadlines, stock/reorder risk and supplier follow-up.
+- **People and safety:** duty owner, trained roles, safety alerts, compliance evidence and privacy incidents.
+- **Lulu:** suggested next actions, escalations, missing information and source-evidence checks.
+
 ## Live sources
 
 - [Current Google Drive project hub](https://drive.google.com/drive/folders/1NDN0kD4duA3wUTRvoCCwEbUl01wuUzUd?usp=drive_link)
 - [Master Index / START HERE](https://drive.google.com/drive/folders/1cC_MkCKfABFx2TKtIrfK3cb_w8xi8mrF)
 - [GitHub repository](https://github.com/Nassir03/ONIRIA-Stone-Town-Brain)
+- [[Project Hub Local Asset Index]]
 
 ## Quality rule
 

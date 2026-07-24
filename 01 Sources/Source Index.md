@@ -15,8 +15,9 @@ privacy: internal
 
 1. Current approved project documents in the [ONIRIA Stone Town Google Drive](https://drive.google.com/drive/folders/1NDN0kD4duA3wUTRvoCCwEbUl01wuUzUd?usp=drive_link).
 2. [[Source - ONIRIA Stone Town Master Index]].
-3. Approved drawings, manuals, quotations, decisions, and signed records.
-4. Draft Brain notes, only when clearly marked as draft or TO CONFIRM.
+3. [[Project Hub Local Asset Index]] for local working copies of high-value drawings, layouts, renders and manuals copied from the project-hub zip.
+4. Approved drawings, manuals, quotations, decisions, and signed records.
+5. Draft Brain notes, only when clearly marked as draft or TO CONFIRM.
 
 ## Main project folders
 
@@ -36,8 +37,10 @@ privacy: internal
 - When two sources conflict, use the newer approved issue and record the conflict.
 - Never infer dimensions, technical specifications, legal compliance, or approval status.
 - Use **TO CONFIRM** when evidence is missing.
+- Treat local zip extracts as reference evidence, not proof of current approval, until issue date and revision are confirmed.
 
 ## Related
 
+- [[Project Hub Local Asset Index]]
 - [[Lulu Trusted Sources and Knowledge Rules]]
 - [[Missing Information Register]]

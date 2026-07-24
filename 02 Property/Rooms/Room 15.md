@@ -33,6 +33,8 @@ guest_impact: "high"
 - **Render folder path:** `02 DESIGN & DRAWINGS/Room Design/Room Render Updates/Room 15/`
 - **Drive:** [Rooms & Public Areas](https://drive.google.com/drive/folders/1MiHnz0gCbcRPVm8d9Vw0ri9PHFdIFjqx) | [Design & Drawings](https://drive.google.com/drive/folders/1gWi-a2Jg32u41LwblaqHHuc3KR4kpuas)
 - **Current approved revision:** TO CONFIRM
+- **Local layout PDF:** [[01 Sources/Project Hub Assets/Room Layouts/Room 15 Layout.pdf]]
+- **Local render reference:** TO CONFIRM - no Room 15 render image found in local project-hub bundle.
 
 ## Furniture and equipment
 
