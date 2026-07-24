@@ -72,3 +72,13 @@ The next implementation phase should connect these documents to:
 - Tasks, decisions, and risks
 - Approved tools and business systems
 - Testing evidence
+## Connected Hotel Operating Knowledge
+
+- [[ONIRIA Brain Dashboard]]
+- [[Property and Rooms Index]]
+- [[SOP Dashboard]]
+- [[Maintenance Dashboard]]
+- [[People Safety and Compliance Index]]
+- [[Source Index]]
+- [[Missing Information Register]]
+

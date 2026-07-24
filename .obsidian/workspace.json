@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "798bffdb921910f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8f0466f707de911",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c567804ab7e1ffed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Maintenance/Preventive Maintenance Schedule.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Preventive Maintenance Schedule"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ed42b9dc0f2e79d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "94df5847863e6790",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18badc3a90fd8e38",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "db7453807c59eeeb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fe8cfb13a9647491",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e1bd500179c6a92f",
+    "type": "split",
+    "children": [
+      {
+        "id": "18d4aeec18b7efd0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "208df11f55809851",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "04 Maintenance/Preventive Maintenance Schedule.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Preventive Maintenance Schedule"
+            }
+          },
+          {
+            "id": "0a7711362bd91602",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "04 Maintenance/Preventive Maintenance Schedule.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Preventive Maintenance Schedule"
+            }
+          },
+          {
+            "id": "c1ddf7bffba11341",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "19e7fb9f4dd5f8a1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8fc9b56772ed0f0a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "04 Maintenance/Preventive Maintenance Schedule.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Preventive Maintenance Schedule"
+            }
+          },
+          {
+            "id": "9bebeca09390d3b4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "c567804ab7e1ffed",
+  "lastOpenFiles": [
+    "04 Maintenance/Open Maintenance Requests.md",
+    "04 Maintenance/Maintenance Dashboard.md",
+    "04 Maintenance/Equipment Register.md",
+    "06 Lulu AI/Lulu Trusted Sources and Knowledge Rules.md",
+    "06 Lulu AI/Lulu Use Cases and Example Conversations.md",
+    "06 Lulu AI/Lulu Missing Information Alerts.md",
+    "06 Lulu AI/Lulu AI Overview.md",
+    "05 Staff and Compliance/Duty Responsibilities.md",
+    "05 Staff and Compliance/Staff Training Matrix.md",
+    "05 Staff and Compliance/Staff Onboarding.md",
+    "05 Staff and Compliance/Responsibilities.md",
+    "05 Staff and Compliance/Staff Role Template.md",
+    "05 Staff and Compliance/Department Role Structure.md",
+    "05 Staff and Compliance/Department Structure.md",
+    "05 Staff and Compliance/Staff and Compliance Index.md",
+    "04 Maintenance and Inventory/Maintenance and Inventory Index.md",
+    "04 Maintenance and Inventory/Supplier Performance Records.md",
+    "04 Maintenance and Inventory/Reorder Levels.md",
+    "03 Operations and SOPs/Check-In Procedure.md",
+    "04 Maintenance and Inventory/Inventory System.md",
+    "04 Maintenance and Inventory/Operational Products and Spare Parts.md",
+    "04 Maintenance and Inventory/Supplier Profiles.md",
+    "04 Maintenance and Inventory/Warranty Records.md",
+    "04 Maintenance and Inventory/Inspection Records.md",
+    "04 Maintenance and Inventory/Maintenance Request Template.md",
+    "04 Maintenance and Inventory/Preventive Maintenance Schedule.md",
+    "04 Maintenance/Suppliers",
+    "04 Maintenance/Inventory",
+    "04 Maintenance",
+    "05 People Safety Compliance/Safety",
+    "05 People Safety Compliance/Roles",
+    "05 People Safety Compliance/Privacy",
+    "05 People Safety Compliance/Departments",
+    "05 People Safety Compliance/Compliance",
+    "05 People Safety Compliance",
+    "01 Sources"
+  ]
+}
